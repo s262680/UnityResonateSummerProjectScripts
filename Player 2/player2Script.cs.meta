@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 1d9d9190b5de75c40896179a8f95208e
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - deadFab: {fileID: 111466, guid: 1c347299839871a4b846caeb5f91c535, type: 2}
+  - Player2Score: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

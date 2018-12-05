@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 74daaf9fca1c5d34a806e3db85f9bed7
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Player1Score: {instanceID: 0}
+  - hitEffectFab: {fileID: 126262, guid: c2eafdb4665a1ae4ead30a58fd865d01, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
